@@ -71,6 +71,7 @@ env:
   tfenv: |
     TFENV_ROOT="$HOME/.tfenv"
     PATH="$TFENV_ROOT/bin:$PATH"
+```
 
 Use tfenv
 
